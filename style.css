@@ -1,0 +1,99 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+body{
+     background-image: linear-gradient(#bdc3c7,#2c3e50);
+     font-family: 'italico claro';
+     font-weight: 300;
+     font-size: 15px;
+     color: aliceblue;
+     line-height: 2;
+     text-align: center;
+}
+img{
+    size: 800px;
+}
+.logo{
+    width: 100px;
+}
+h1 , h2{
+    color: black;
+    font-size: 20px;
+    font-family: 'roboto' , sans-serif;
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+a:hover{
+    background-color:grey;
+}
+.contener{
+    width: 700px;
+    margin: 40px auto;
+}
+#conteudo{
+    background-color: white;
+    padding: 40px;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 70px;
+    margin: 20px 0px;
+    text-align: center;
+}
+.introducao{
+    background-color: white;
+    color:black;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 70px;
+    margin: 20px 0px;
+    text-align: center;
+}
+.introducao p{
+    font-size: 15px;
+}
+.medias{
+    background-color: white;
+    color:black;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 70px;
+    margin: 20px 0px;
+    text-align: center;
+}
+.medias li{
+    display: inline;
+    padding: 10px;
+    size: 100px;
+}
+/* .filmes{
+    background-color: white;
+    width: 1200px;
+    color:black;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    margin-right: 100px;
+    text-align: center;
+    display: grid;
+} */
+.filmes{
+    background-color: white;
+    color:black;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 70px;
+    margin: 20px 0px;
+    text-align: center;
+}
+.filmes li{
+    display: inline;
+}
+
+.jogos{
+    background-color: white;
+    color:black;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 70px;
+    margin: 20px 0px;
+    text-align: center;
+}
+.jogos li{
+    display: inline;
+}
+ ul {
+    list-style: none;
+}
