@@ -62,15 +62,7 @@ a:hover{
     padding: 10px;
     size: 100px;
 }
-/* .filmes{
-    background-color: white;
-    width: 1200px;
-    color:black;
-    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
-    margin-right: 100px;
-    text-align: center;
-    display: grid;
-} */
+
 .filmes{
     background-color: white;
     color:black;
@@ -82,6 +74,18 @@ a:hover{
 .filmes li{
     display: inline;
 }
+.series{
+    background-color: white;
+    color:black;
+    box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+    border-radius: 70px;
+    margin: 20px 0px;
+    text-align: center;
+}
+.series li{
+    display: inline;
+}
+
 
 .jogos{
     background-color: white;
